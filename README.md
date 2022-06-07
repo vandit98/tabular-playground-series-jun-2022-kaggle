@@ -6,4 +6,5 @@ In this month competition we have to predict the values for the missing data.
 i have used the standard approach i.e using mean of that particular column, i have replaced the nan values with the mean.
 If the model is modified further then you will see the update soon.
 Feel free to ommit changes and provide solution.
-you can also contact me in case of any query.
+happy learning.
+
